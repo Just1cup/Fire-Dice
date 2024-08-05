@@ -1,0 +1,15 @@
+# Folders
+/discloud
+/deprecated
+/node_modules
+
+# Files
+/package-lock.json
+
+# Config files
+
+# Extensions
+*.zip
+*.sqlite
+*.exe
+*.db
