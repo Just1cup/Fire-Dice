@@ -1,4 +1,4 @@
-# Awesome Bot Base
+# Fire Dice Base
 
 > [!NOTE] This project can be generated using the [Constant CLI](https://github.com/rinckodev/constatic)
 > See the full documentation for this base by accessing: https://constatic-docs.vercel.app/discord
